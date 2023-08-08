@@ -16,7 +16,7 @@
   <img align="center" alt="Lorenzoa7-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Lorenzoa7-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Lorenzoa7-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="right" alt="Lorenzo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/630201208270749696/1004887111368970341/curriculo_foto.PNG">
+  <img align="right" alt="Lorenzo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/630201208270749696/1138261712332668988/foto_profissional_quadrada.jpg">
 </div>
   
   ##
