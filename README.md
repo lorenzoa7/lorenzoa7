@@ -1,8 +1,8 @@
 ## My name is Lorenzo Aceti and my main goal is to add value through programming creativity.
 <div align="center">
   <a href="https://github.com/lorenzoa7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzoa7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoa7&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzoa7&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoa7&layout=compact&theme=dark&exclude_repo=ControleCompraVenda"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lorenzoa7-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
