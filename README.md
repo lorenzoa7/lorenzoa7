@@ -9,12 +9,12 @@
   <img align="center" alt="Lorenzoa7-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lorenzoa7-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Lorenzoa7-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Lorenzoa7-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Lorenzoa7-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Lorenzoa7-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lorenzoa7-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Lorenzoa7-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Lorenzoa7-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Lorenzo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/630201208270749696/1138261712332668988/foto_profissional_quadrada.jpg">
+  <img align="right" alt="Lorenzo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/630201208270749696/1138261712332668988/foto_profissional_quadrada.jpg?ex=65f8d6d4&is=65e661d4&hm=8caf58da86eabe7344faa8909a290dab8f63228cbbbddce82e89977de0daba65&">
 </div>
   
   ##
