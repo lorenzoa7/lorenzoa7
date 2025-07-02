@@ -3,9 +3,9 @@
 # 💫 About Me:
 Software Developer focused on frontend, specialized in technologies such as React, Next.js, TypeScript, Tailwind CSS, Node.js and Fastify. I have experience in projects involving the creation of modern and responsive user interfaces using these technologies.
 
-I currently work as a software developer on an AI system to predict equipment risks for the largest company in Brazil. This project won the Connections for Innovation program and was highly praised at Web Summit 2024. In addition to my main stack, I use tools such as Tanstack Query (React Query), Zustand, Axios, WebSockets, tRPC and caching to improve the functionality and experience of the user of my applications. I collaborate with multidisciplinary and international teams to understand and implement efficient and scalable solutions.
+I currently work as a software developer on TRACTIAN, one of the most promising companies in the world, being valued at more than US$ 700M in 2024 and credited as one of the 50 most promising AI companies in the world by Forbes, along with companies such as OpenAI and Notion. In addition to my main stack, I use tools such as Tanstack Query (React Query), Zustand, Axios, WebSockets, tRPC and caching to improve the functionality, performance and experience of the user of my applications. I collaborate with multidisciplinary and international teams to understand and implement efficient and scalable solutions.
 
-Also, I have a solid knowledge of UI/UX design concepts, having on my resume a computer graphics certification from an authorized Adobe and Autodesk center.
+Also, I have a solid knowledge of UI/UX design concepts, having on my career a computer graphics certification from an authorized Adobe and Autodesk center.
 
 ## 📋 Qualifications and Skills
 
